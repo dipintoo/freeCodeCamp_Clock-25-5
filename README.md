@@ -8,8 +8,8 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 
 ## User Stories:
 
-1. Saya dapat melihat elemen dengan ID `break-label` yang berisi string (misalnya, "Break Length").
-2. Saya dapat melihat elemen dengan ID `session-label` yang berisi string (misalnya, "Session Length").
+1. Saya dapat melihat elemen dengan ID `break-label` yang berisi string misalnya `Break Length`
+2. Saya dapat melihat elemen dengan ID `session-label` yang berisi string misalnya `Session Length`
 3. Saya dapat melihat dua elemen yang dapat diklik dengan ID `break-decrement` dan `session-decrement`
 4. Saya dapat melihat dua elemen yang dapat diklik dengan ID `break-increment` dan `session-increment`
 5. Saya dapat melihat elemen dengan ID `break-length`, yang secara default menampilkan nilai 5.
