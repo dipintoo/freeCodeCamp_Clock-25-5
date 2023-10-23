@@ -4,11 +4,11 @@ import './App.css'
 
 // Definisikan komponen utama "App"
 const App = () => {
-  const [breakLength, setBreakLength] = React.useState(5);
-  const [sessionLength, setSessionLength] = React.useState(25);
-  const [timeLeft, seTtimeLeft] = React.useState(1500);
-  const [timingType, setTimingtype] = React.useState("SESSION");
-  const [play, setPlay] = React.useState(false);
+  const [breakLength, setBreakLength] = useState(5);
+  const [sessionLength, setSessionLength] = useState(25);
+  const [timeLeft, seTtimeLeft] = useState(1500);
+  const [timingType, setTimingtype] = useState("SESSION");
+  const [play, setPlay] = useState(false);
 
   // Timeout untuk mengurangi waktu tersisa setiap 1 detik
   const timeout = setTimeout(() => {
@@ -90,7 +90,7 @@ const App = () => {
   };
 
   // Menggunakan useEffect untuk memanggil fungsi "clock"
-  React.useEffect(() => {
+  useEffect(() => {
     clock();
   }, [play, timeLeft, timeout]);
 
