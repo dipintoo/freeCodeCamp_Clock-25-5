@@ -4,7 +4,7 @@
 
 ## Teknologi yang digunakan
 
-Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, Bootstrap, SASS, React, and jQuery. Dalam project [Clock 25 + 5](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock) ini, saya coba kombinasi HTML, CSS dan React (JavaScript) 👍🏻.
+Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, Bootstrap, SASS, React, and jQuery. Dalam project [Clock 25 + 5](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock) ini, saya coba kombinasi HTML, CSS dan React (JavaScript) 👍🏻
 
 ## User Stories:
 
